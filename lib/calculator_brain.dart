@@ -103,6 +103,7 @@ class calculatorBrain {
       resultOperationText = resultOperationText + buttontext;
     }
     print(_output);
+    
     return output;
   }
 }
